@@ -1,2 +1,3 @@
 # MyRepo1
-My First Repository
+My First Repository!
+about learning GitHhub:
